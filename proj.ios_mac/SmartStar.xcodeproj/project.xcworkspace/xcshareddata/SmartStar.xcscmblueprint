@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "433b8514-f256-9a4a-8239-1fd8bebe8c45++1730",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "433b8514-f256-9a4a-8239-1fd8bebe8c45++1730" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "433b8514-f256-9a4a-8239-1fd8bebe8c45++1730" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "CDD2CF7F-5D05-488C-A6D4-3701484421EE",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "433b8514-f256-9a4a-8239-1fd8bebe8c45++1730" : "SmartStarPublic"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SmartStar",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "proj.ios_mac\/SmartStar.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/alaxsvn\/svn\/mylib",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "433b8514-f256-9a4a-8239-1fd8bebe8c45++1730"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/alaxsvn\/svn\/mylib",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "433b8514-f256-9a4a-8239-1fd8bebe8c45++1730"
+    }
+  ]
+}

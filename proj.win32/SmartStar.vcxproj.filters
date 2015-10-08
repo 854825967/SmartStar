@@ -1,0 +1,301 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="win32">
+      <UniqueIdentifier>{84a8ebd7-7cf0-47f6-b75e-d441df67da40}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes">
+      <UniqueIdentifier>{bb6c862e-70e9-49d9-81b7-3829a6f50471}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="resource">
+      <UniqueIdentifier>{715254bc-d70b-4ec5-bf29-467dd3ace079}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Interface">
+      <UniqueIdentifier>{c0a9fe0c-8922-4555-a899-ed28283a64bc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Public">
+      <UniqueIdentifier>{ea3ae53e-938f-473d-9c7c-c71d3b96a5b0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Public\json">
+      <UniqueIdentifier>{c3d6ada6-bc15-4f25-a76c-fe62030b7011}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>win32</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppDelegate.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Button.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Chess.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Chessboard.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\CTouchEngine.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\DefeatPanel.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\GamePanel.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Header.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\HelpPanel.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Panel.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\ShopPanel.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Smart09.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\StartPanel.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Public\Util.cpp">
+      <Filter>Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Public\Var.cpp">
+      <Filter>Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Public\WinConsole.cpp">
+      <Filter>Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Public\CDumper.cpp">
+      <Filter>Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Public\CSelectModel.cpp">
+      <Filter>Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Public\IniFile.cpp">
+      <Filter>Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Public\Logfile.cpp">
+      <Filter>Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Public\MultiSys.cpp">
+      <Filter>Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Public\AES.cc">
+      <Filter>Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\ExitPanel.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Public\md5.cpp">
+      <Filter>Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Public\json\json_reader.cpp">
+      <Filter>Public\json</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Public\json\json_value.cpp">
+      <Filter>Public\json</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Public\json\json_writer.cpp">
+      <Filter>Public\json</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="main.h">
+      <Filter>win32</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppDelegate.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Button.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Chess.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Chessboard.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\CTouchEngine.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\DefeatPanel.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\GamePanel.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Header.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\HelpPanel.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Panel.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ShopPanel.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Smart09.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\StartPanel.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Interface\ITouchHandle.h">
+      <Filter>Classes\Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\MultiSys.h">
+      <Filter>Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\TAttribute.h">
+      <Filter>Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\TCallBack.h">
+      <Filter>Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\TFSM.h">
+      <Filter>Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\TLogger.h">
+      <Filter>Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Tools.h">
+      <Filter>Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\TPool.h">
+      <Filter>Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\TQueue.h">
+      <Filter>Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\TStream.h">
+      <Filter>Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Util.h">
+      <Filter>Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Var.h">
+      <Filter>Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\WinConsole.h">
+      <Filter>Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\WinSys.h">
+      <Filter>Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\WinTools.h">
+      <Filter>Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\AndroidSys.h">
+      <Filter>Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\AndroidTools.h">
+      <Filter>Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Archive.h">
+      <Filter>Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\CDumper.h">
+      <Filter>Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\CHashMap.h">
+      <Filter>Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\CLock.h">
+      <Filter>Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\CLockUnit.h">
+      <Filter>Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Console.h">
+      <Filter>Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\CSelectModel.h">
+      <Filter>Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\IniFile.h">
+      <Filter>Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Inlines.h">
+      <Filter>Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\IOSSys.h">
+      <Filter>Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\IOSTools.h">
+      <Filter>Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\LinuxSys.h">
+      <Filter>Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\LinuxTools.h">
+      <Filter>Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\MacSys.h">
+      <Filter>Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\MacTools.h">
+      <Filter>Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\AES.h">
+      <Filter>Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ExitPanel.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\md5.h">
+      <Filter>Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\json\reader.h">
+      <Filter>Public\json</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\json\value.h">
+      <Filter>Public\json</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\json\writer.h">
+      <Filter>Public\json</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\json\autolink.h">
+      <Filter>Public\json</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\json\config.h">
+      <Filter>Public\json</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\json\features.h">
+      <Filter>Public\json</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\json\forwards.h">
+      <Filter>Public\json</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\json\json.h">
+      <Filter>Public\json</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\json\json_batchallocator.h">
+      <Filter>Public\json</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="game.rc">
+      <Filter>resource</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\Public\json\json_internalarray.inl">
+      <Filter>Public\json</Filter>
+    </None>
+    <None Include="..\Public\json\json_internalmap.inl">
+      <Filter>Public\json</Filter>
+    </None>
+    <None Include="..\Public\json\json_valueiterator.inl">
+      <Filter>Public\json</Filter>
+    </None>
+  </ItemGroup>
+</Project>
